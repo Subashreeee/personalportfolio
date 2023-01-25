@@ -1,0 +1,17 @@
+p{
+  color:white;
+  font-size: 30px;
+  font-family: "Garamond";
+  margin-left: 160px;
+  font-weight:lighter;
+}
+h1{
+  font-size: 60px;
+  color:white;
+  font-family: "Garamond";
+  font-weight: lighter;
+  margin-left: 160px;
+}
+body{
+  background-color: black;
+}
